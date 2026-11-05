@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-stripe-flutter",
+  "capabilityKey": "liberusoftware/billing-stripe",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_stripe_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-stripe.md",
+  "presentationPlan": "projects/billing/flutter/module-billing-stripe.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
